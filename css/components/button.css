@@ -1,0 +1,19 @@
+.t-button {
+  border: none;
+  margin: 24px;
+  width: 80px;
+  height: 36px;
+  border-radius: 4px;
+  background: #50b83c;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: left;
+  text-align: center;
+  line-height: 36px;
+  color: #fff;
+}
+.t-button:hover {
+  background-color: #57c841;
+  cursor: pointer;
+}
